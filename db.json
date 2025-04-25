@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Cà phê sữa",
+            "price": 30000,
+            "image": "https://product.hstatic.net/1000230642/product/dlm012500nau__6__b1984e436ba74fc99fe5fb2597feab8f_large.jpg",
+            "size": 10,
+            "color": 24,
+            "description": "Cà phê sữa là một loại đồ uống phổ biến tại Việt Nam, được làm từ cà phê rang xay và sữa đặc. Đồ uống này thường được phục vụ lạnh hoặc nóng, tùy thuộc vào sở thích của người dùng. Cà phê sữa có vị ngọt nhẹ và hương thơm đặc trưng của cà phê, mang lại cảm giác thư giãn và tỉnh táo cho người thưởng thức."
+        },
+        {
+            "id": 2,
+            "name": "Cà phê sữa",
+            "price": 30000,
+            "image": "https://product.hstatic.net/1000230642/product/hem001201den__5__2e77117750634528933551e16cfbc317_large.jpg",
+            "size": 10,
+            "color": 24,
+            "description": "Cà phê sữa là một loại đồ uống phổ biến tại Việt Nam, được làm từ cà phê rang xay và sữa đặc. Đồ uống này thường được phục vụ lạnh hoặc nóng, tùy thuộc vào sở thích của người dùng. Cà phê sữa có vị ngọt nhẹ và hương thơm đặc trưng của cà phê, mang lại cảm giác thư giãn và tỉnh táo cho người thưởng thức."
+        },
+        {
+            "id": 3,
+            "name": "Cà phê sữa",
+            "price": 30000,
+            "image": "https://product.hstatic.net/1000230642/product/bym000400xmn__4__a047b933b86e4cfe82d3d0c57ff763e9_large.jpg",
+            "size": 10,
+            "color": 24,
+            "description": "Cà phê sữa là một loại đồ uống phổ biến tại Việt Nam, được làm từ cà phê rang xay và sữa đặc. Đồ uống này thường được phục vụ lạnh hoặc nóng, tùy thuộc vào sở thích của người dùng. Cà phê sữa có vị ngọt nhẹ và hương thơm đặc trưng của cà phê, mang lại cảm giác thư giãn và tỉnh táo cho người thưởng thức."
+        },
+        {
+            "id": 4,
+            "name": "Cà phê sữa",
+            "price": 30000,
+            "image": "https://product.hstatic.net/1000230642/product/hem001200trg__5__20528dbef3674c77985e2a9c477dda15_large.jpg",
+            "size": 10,
+            "color": 24,
+            "description": "Cà phê sữa là một loại đồ uống phổ biến tại Việt Nam, được làm từ cà phê rang xay và sữa đặc. Đồ uống này thường được phục vụ lạnh hoặc nóng, tùy thuộc vào sở thích của người dùng. Cà phê sữa có vị ngọt nhẹ và hương thơm đặc trưng của cà phê, mang lại cảm giác thư giãn và tỉnh táo cho người thưởng thức."
+        }
+    ]
+}
